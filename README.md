@@ -1,3 +1,3 @@
-# Hormela group
+# AVR Studio
 
-  <img src="./Orange Minimalist (LinkedIn Banner).png" title="hover text">
+  <img src="./Banner.png" title="https://anvarov.studio">
